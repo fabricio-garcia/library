@@ -36,6 +36,8 @@
   </p>
 </p>
 
+![library](docs/library.png)
+
 # Specifications
 
 - Use of objects and objects constructors
