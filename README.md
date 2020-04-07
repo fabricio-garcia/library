@@ -36,7 +36,7 @@
   </p>
 </p>
 
-![library](docs/library.png)
+![library](doc/library.png)
 
 # Specifications
 
